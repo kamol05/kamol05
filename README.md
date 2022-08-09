@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamol05
+- 👋 Hi, I’m Kamoliddin!
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...
